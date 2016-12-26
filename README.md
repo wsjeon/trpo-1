@@ -1,6 +1,8 @@
 # trpo
 trust region policy optimitztion base on gym and tensorflow
 
+forked from jjkke88/trpo (2016/12/27)
+
 <p>There are three versions of trpo, one for decrete action space like mountaincar, one for decreate action space task with image as input like atari games, and the last for continuous action space for pendulems.</p>
 <p>The environment is base on openAI gym.</p>
 <p>part of code refer to rllab</p>
